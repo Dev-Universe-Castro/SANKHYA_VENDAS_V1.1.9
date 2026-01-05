@@ -1,7 +1,7 @@
 git clone ""
 cp -r public .next/standalone/
 cp -r .next/static .next/standalone/.next/
-cd /home/crescimentoerp/SANKHYA_VENDAS_V1.1.4/.next/standalone
+cd /home/crescimentoerp/SANKHYA_VENDAS_V1.1.9/.next/standalone
 npm install bcrypt
 sudo ufw allow 4000/tcp
 sudo ufw reload
